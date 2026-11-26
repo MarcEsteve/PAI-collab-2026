@@ -4,13 +4,18 @@ hola soc el marti
 hola soc el biel
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hola soc l'alex
 >>>>>>> a2b8947a52540cd34f9f074cec46b17f71f9599b
 =======
 >>>>>>> 0c8801abc73fa6303a4e694355518e187a166e23
 =======
-hola soc la Cristina
 =======
+>>>>>>> 1c35532f5e03a04f9efa7d4a2961bb1fcda12eaa
+hola soc la Cristina
 hola soc la claudia 
+<<<<<<< HEAD
 >>>>>>> 17a7c6636e021dcd923e6b843797831c3787dec3
 >>>>>>> 5f88c97c965bd68dc0954c883c0f29763bd7caf4
+=======
+>>>>>>> 1c35532f5e03a04f9efa7d4a2961bb1fcda12eaa
