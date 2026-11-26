@@ -1,4 +1,6 @@
 hola, soc el marc
+hola, soc el pol
 hola soc el marti
 hola soc el biel
 hola soc l'alex
+>>>>>>> a2b8947a52540cd34f9f074cec46b17f71f9599b
