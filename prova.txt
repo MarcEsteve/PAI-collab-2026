@@ -1,8 +1,0 @@
-hola, soc el marc
-hola soc el marti
-<<<<<<< HEAD
-hola soc la claudi 
-=======
-hola soc el biel
->>>>>>> 7517ff3fa1ff076a210ac9e1243d47deb336475c
-hola soc la claudia 
