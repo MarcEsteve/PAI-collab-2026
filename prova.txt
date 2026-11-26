@@ -2,7 +2,10 @@ hola, soc el marc
 hola, soc el pol
 hola soc el marti
 hola soc el biel
+<<<<<<< Updated upstream
 hola soc la Cristina
 hola soc la claudia 
 hola soc la Elsa
+=======
+>>>>>>> Stashed changes
 el guma no s'entera de res
