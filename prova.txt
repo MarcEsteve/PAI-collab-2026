@@ -2,4 +2,8 @@ hola, soc el marc
 hola, soc el pol
 hola soc el marti
 hola soc el biel
+<<<<<<< HEAD
 hola soc la Cristina
+=======
+hola soc la claudia 
+>>>>>>> 17a7c6636e021dcd923e6b843797831c3787dec3
