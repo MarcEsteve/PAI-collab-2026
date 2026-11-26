@@ -5,6 +5,7 @@ hola soc el biel
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hola soc l'alex
 >>>>>>> a2b8947a52540cd34f9f074cec46b17f71f9599b
 =======
@@ -12,6 +13,9 @@ hola soc l'alex
 =======
 =======
 >>>>>>> 1c35532f5e03a04f9efa7d4a2961bb1fcda12eaa
+=======
+<<<<<<< Updated upstream
+>>>>>>> fcd46db0722c998f1589742f19158e07914eaaff
 hola soc la Cristina
 hola soc la claudia 
 <<<<<<< HEAD
@@ -22,4 +26,10 @@ hola soc la claudia
 >>>>>>> 1c35532f5e03a04f9efa7d4a2961bb1fcda12eaa
 =======
 hola soc la Elsa
+<<<<<<< HEAD
 >>>>>>> 9b8ddf4db69a543020030ef067f64d08c42c724e
+=======
+=======
+>>>>>>> Stashed changes
+el guma no s'entera de res
+>>>>>>> fcd46db0722c998f1589742f19158e07914eaaff
