@@ -1,3 +1,12 @@
 hola, soc el marc
+<<<<<<< HEAD
+hola, soc el pol
+=======
 hola soc el marti
+<<<<<<< HEAD
 hola soc la elsa
+=======
+hola soc el biel
+>>>>>>> 2e16eed5daac3d496a6b6e19b7ec1920a6acd405
+>>>>>>> a2b8947a52540cd34f9f074cec46b17f71f9599b
+hola soc la elsaaaaaaaaaaa no em surt
