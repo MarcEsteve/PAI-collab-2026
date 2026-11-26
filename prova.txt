@@ -1,2 +1,7 @@
 hola, soc el marc
+<<<<<<< HEAD
 hola, soc el pol
+=======
+hola soc el marti
+hola soc el biel
+>>>>>>> 2e16eed5daac3d496a6b6e19b7ec1920a6acd405
