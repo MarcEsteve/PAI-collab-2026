@@ -15,7 +15,11 @@ hola soc l'alex
 hola soc la Cristina
 hola soc la claudia 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 17a7c6636e021dcd923e6b843797831c3787dec3
 >>>>>>> 5f88c97c965bd68dc0954c883c0f29763bd7caf4
 =======
 >>>>>>> 1c35532f5e03a04f9efa7d4a2961bb1fcda12eaa
+=======
+hola soc la Elsa
+>>>>>>> 9b8ddf4db69a543020030ef067f64d08c42c724e
