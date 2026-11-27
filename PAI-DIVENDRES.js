@@ -1,5 +1,3 @@
 // Aqui tots els comentaris
-Prova
-hola marc
-prova
-bon dia 
+hola
+hola pau
