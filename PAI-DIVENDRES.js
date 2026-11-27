@@ -2,7 +2,7 @@
 Prova
 <<<<<<< HEAD
 
-que bé ens ho passem a PAIque bé ens ho passem a PAI
+que bé ens ho passem a PAI
 =======
 hola marc
 prova
