@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-
-=======
 // Aqui tots els comentaris
-hola
+Prova
+hola marc
+prova
+bon dia
+hola 
